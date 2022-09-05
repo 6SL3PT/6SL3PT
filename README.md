@@ -5,7 +5,7 @@
 
 - 👋 I’m Poohdish Thawornsusin, or you can call me by my nickname, Earth.
 - 👨🏽‍💻 I’m currently studying Applied Computer Science at KMUTT, Thailand.
-- 💻 My interest lies in both frontend & backend development, but I prefer the backend more.
+- 💻 My interest lies in both data science and backend development.
 - 🌱 I'm still a novice in this circle. If you have any advice I'm willing to expand my knowledge.
 - 📫 Email me at [eochannelformal@gmail.com](mailto:eochannelformal@gmail.com).
 
