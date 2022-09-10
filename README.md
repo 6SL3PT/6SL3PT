@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi , I'm Poohdish Thawornsusin 
+  Hi , I'm Phudit Thawornsusin 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-- 👋 I’m Poohdish Thawornsusin, or you can call me by my nickname, Earth.
+- 👋 I’m Phudit, or you can call me by my nickname, Earth.
 - 👨🏽‍💻 I’m currently studying Applied Computer Science at KMUTT, Thailand.
 - 💻 My interest lies in both data science and backend development.
 - 🌱 I'm still a novice in this circle. If you have any advice I'm willing to expand my knowledge.
