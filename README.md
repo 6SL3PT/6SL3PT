@@ -10,40 +10,17 @@
 - 📫 Email me at [eochannelformal@gmail.com](mailto:eochannelformal@gmail.com).
 
 ## 🛠️ Languages & Tools I have learned
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white&labelColor=inactive">
-  <img src="https://img.shields.io/badge/Node.Js-brightgreen?style=flat&logo=node.js&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Express-black?style=flat&logo=Express&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=XAMPP&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&labelColor=lightgray">
+<p align='center'>
+    <img src='https://skillicons.dev/icons?i=py,tensorflow,html,css,react,redux,nodejs,express,js,ts,materialui,c,cpp,java,mongo,firebase,mysql,postgres,git,github&perline=10'/>
 </p>
 
 ## 📊 Github Stats
 <br/>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="6SL3PT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=6SL3PT&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  </a>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6SL3PT&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="6SL3PT" height="192px"/>
-  
-  <br/>
-  <br/>
+<center>
+  <table>
+    <td><img alt="6SL3PT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=6SL3PT&show_icons=true&count_private=true&theme=algolia" height="192px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=6SL3PT&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="6SL3PT" height="192px"/></td>
+  </table>
   <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill.
-</p>
+</center>
