@@ -11,16 +11,23 @@
 
 ## 🛠️ Languages & Tools I have learned
 <p align='center'>
-    <img src='https://skillicons.dev/icons?i=py,tensorflow,html,css,react,redux,nodejs,express,js,ts,materialui,c,cpp,java,mongo,firebase,mysql,postgres,git,github&perline=10'/>
+  <img src='https://skillicons.dev/icons?i=py,tensorflow,html,css,react,redux,nodejs,express,js,ts,materialui,c,cpp,java,mongo,firebase,mysql,postgres,git,github&perline=10'/>
+</p>
+
+## 🎧 Spotify Now Playing
+
+<p align='center'>
+
+  <img alt="6SL3PT Spotify Now Playing" src="https://spotify-now-playing.6sl3pt.vercel.app/api/spotify?background_color=181424&border_color=ffffff"/>
+
 </p>
 
 ## 📊 Github Stats
-<br/>
 
 <center>
   <table>
-    <td><img alt="6SL3PT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=6SL3PT&show_icons=true&count_private=true&theme=algolia" height="192px"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=6SL3PT&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="6SL3PT" height="192px"/></td>
+    <td><img alt="6SL3PT's Github Stats" src="https://github-readme-stats.6sl3pt.vercel.app/api?username=6SL3PT&show_icons=true&count_private=true&theme=radical" height="192px"/></td>
+    <td><img src="https://github-readme-stats.6sl3pt.vercel.app/api/top-langs?username=6SL3PT&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="6SL3PT" height="192px"/></td>
   </table>
   <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill.
 </center>
