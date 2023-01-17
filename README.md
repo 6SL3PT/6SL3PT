@@ -16,11 +16,11 @@
 
 ## 🎧 Spotify Now Playing
 
-<p align='center'>
+<div align='center'>
 
-  <img alt="6SL3PT Spotify Now Playing" src="https://spotify-now-playing.6sl3pt.vercel.app/api/spotify?background_color=181424&border_color=ffffff"/>
+[![Spotify](https://spotify-now-playing.6sl3pt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/6SL3PT)
 
-</p>
+</div>
 
 ## 📊 Github Stats
 
