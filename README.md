@@ -18,7 +18,7 @@
 
 <div align='center'>
 
-[![Spotify](https://spotify-now-playing.6sl3pt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/6SL3PT)
+[![Spotify](https://spotify-now-playing.6sl3pt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://https://open.spotify.com/user/96gy4zhar68gw9mruqcqmz0s0?si=e75f8952e1fa48aa)
 
 </div>
 
