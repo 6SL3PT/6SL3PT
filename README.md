@@ -7,7 +7,7 @@
 - 👨🏽‍💻 I’m currently studying Applied Computer Science at KMUTT, Thailand.
 - 💻 My interest lies in data-involved fields (data science, data analysis, data engineering, etc.).
 - 🌱 I'm still a novice in this circle. If you have any advice I'm willing to expand my knowledge.
-- 📫 Email me at [eochannelformal@gmail.com](mailto:eochannelformal@gmail.com).
+- 📫 Email me at [phudit.thawornsusin@gmail.com](mailto:phudit.thawornsusin@gmail.com).
 
 ## 🛠️ Languages & Tools I have learned
 <p align='center'>
