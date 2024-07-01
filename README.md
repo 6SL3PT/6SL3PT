@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi , I'm Phudit Thawornsusin 
+  Hi, I'm Phudit Thawornsusin 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 - 👋 I’m Phudit, or you can call me by my nickname, Earth.
 - 👨🏽‍💻 I’m currently studying Applied Computer Science at KMUTT, Thailand.
-- 💻 My interest lies in data-involved fields (data science, data analysis, data engineering, etc.).
+- 💻 My interest lies in software engineering and data-involved fields.
 - 🌱 I'm still a novice in this circle. If you have any advice I'm willing to expand my knowledge.
 - 📫 Email me at [phudit.thawornsusin@gmail.com](mailto:phudit.thawornsusin@gmail.com).
 
