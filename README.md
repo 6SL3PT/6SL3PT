@@ -15,8 +15,16 @@ Hi, I'm Phudit — a passionate developer with a strong interest in software eng
 [![Homelab](https://svg.bookmark.style/api?url=https://github.com/6sl3pt/homelab&mode=dark&style=horizontal)](https://github.com/6sl3pt/homelab)
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+2. ⬆️ Pushed 1 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+3. ⬆️ Pushed 1 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+4. ✔️ Closed issue [#4](https://github.com/6SL3PT/homelab/issues/4) in [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+5. ⬆️ Pushed 1 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, May 17th, 2025, 5:11:25 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 > Tip: powered by [GitHub Readme Activity Workflow](https://github.com/Readme-Workflows/recent-activity)
 
