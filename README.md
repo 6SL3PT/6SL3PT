@@ -3,17 +3,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-- 👋 I’m Phudit, or you can call me by my nickname, Earth.
-- 👨🏽‍💻 I’m currently working as a Full-stack Developer.
-- 💻 My interest lies in software engineering and data engineering.
-- 🌱 I'm always open to any guidance. If you have any advice I'm willing to expand my knowledge.
-- 📫 Email me at [phudit.thawornsusin@gmail.com](mailto:phudit.thawornsusin@gmail.com).
+Hi, I'm Phudit — a passionate developer with a strong interest in software engineering and data engineering. I'm constantly exploring new technologies and best practices to improve my skills and stay up to date in the field. I'm always open to learning and growing, so if you have any advice, insights, or resources to share, I'd love to hear from you!
 
-<p align='left'>
-  <img src='https://skillicons.dev/icons?i=cs,ts,bash,java,py,dotnet,nextjs,postgres,docker,aws,azure'/>
-</p>
+### ⚡ Recent Activity
 
-## 🎧 Spotify Now Playing
+**Currently working on:**
+
+[![Homelab](https://svg.bookmark.style/api?url=https://github.com/6sl3pt/homelab&mode=dark&style=horizontal)](https://github.com/6sl3pt/homelab)
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+> Tip: powered by [GitHub Readme Activity Workflow](https://github.com/Readme-Workflows/recent-activity)
+
+### 🎧 Spotify Now Playing
 
 <div align='center'>
 
@@ -21,10 +25,9 @@
 
 </div>
 
-## 📊 Github Stats
+### 📊 Github Stats
 
 <table align='center'>
   <td><img alt="6SL3PT's Github Stats" src="https://github-readme-stats.6sl3pt.vercel.app/api?username=6SL3PT&show_icons=true&count_private=true&theme=radical" height="192px"/></td>
   <td><img src="https://github-readme-stats.6sl3pt.vercel.app/api/top-langs?username=6SL3PT&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="6SL3PT" height="192px"/></td>
 </table>
-<b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill.
