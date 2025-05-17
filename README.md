@@ -1,7 +1,10 @@
-<h1 align="center">
-  Hi, I'm Phudit Thawornsusin 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<p align=”center”>
+  <a href="https://www.figma.com/community/file/1206877665795271691/readme-github-banner">
+    <img src="./public/header.png" >
+  </a>
+</p>
+
+<hr/>
 
 Hi, I'm Phudit — a passionate developer with a strong interest in software engineering and data engineering. I'm constantly exploring new technologies and best practices to improve my skills and stay up to date in the field. I'm always open to learning and growing, so if you have any advice, insights, or resources to share, I'd love to hear from you!
 
