@@ -12,7 +12,9 @@ Hi, I'm Phudit — a passionate developer with a strong interest in software eng
 
 **Currently working on:**
 
-[![Homelab](https://svg.bookmark.style/api?url=https://github.com/6sl3pt/homelab&mode=dark&style=horizontal)](https://github.com/6sl3pt/homelab)
+[![Homelab](https://svg.bookmark.style/api?url=https://github.com/6sl3pt/homelab?v&mode=dark&style=horizontal)](https://github.com/6sl3pt/homelab)
+
+**Activities:**
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
