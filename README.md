@@ -19,13 +19,13 @@ Hi, I'm Phudit — a passionate developer with a strong interest in software eng
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
 2. 🎉 Merged PR [#16](https://github.com/6SL3PT/homelab/pull/16) in [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
-3. 📔 Created new repository [6SL3PT/talos-config](https://github.com/6SL3PT/talos-config)<br>
-4. ⬆️ Pushed 2 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
-5. 🎉 Merged PR [#15](https://github.com/6SL3PT/homelab/pull/15) in [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+3. ⬆️ Pushed 2 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+4. 🎉 Merged PR [#15](https://github.com/6SL3PT/homelab/pull/15) in [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
+5. ⬆️ Pushed 1 commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 23rd, 2025, 1:44:04 AM
+Last Updated: Tuesday, June 24th, 2025, 1:38:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 > Tip: powered by [GitHub Readme Activity Workflow](https://github.com/Readme-Workflows/recent-activity)
