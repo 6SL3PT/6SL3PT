@@ -30,8 +30,14 @@ Last Updated: Saturday, October 18th, 2025, 1:18:27 AM
 ### 🎧 Spotify Now Playing
 
 <div align='center'>
-
+  
 [![Spotify](https://spotify-now-playing.6sl3pt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/96gy4zhar68gw9mruqcqmz0s0?si=e75f8952e1fa48aa)
+
+</div>
+
+<div align='center'>
+  
+[![Spotify](https://spotify-readme-widget-6sl3pts-projects.vercel.app/api/widget)](https://open.spotify.com/user/96gy4zhar68gw9mruqcqmz0s0?si=e75f8952e1fa48aa)
 
 </div>
 
