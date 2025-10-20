@@ -19,13 +19,13 @@ Hi, I'm Phudit — a passionate developer with a strong interest in software eng
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [6SL3PT/spotify-readme-widget](https://github.com/6SL3PT/spotify-readme-widget)<br>
 2. ⬆️ Pushed undefined commit(s) to [6SL3PT/spotify-readme-widget](https://github.com/6SL3PT/spotify-readme-widget)<br>
-3. ⬆️ Pushed undefined commit(s) to [6SL3PT/6SL3PT](https://github.com/6SL3PT/6SL3PT)<br>
+3. ⬆️ Pushed undefined commit(s) to [6SL3PT/spotify-readme-widget](https://github.com/6SL3PT/spotify-readme-widget)<br>
 4. ⬆️ Pushed undefined commit(s) to [6SL3PT/spotify-readme-widget](https://github.com/6SL3PT/spotify-readme-widget)<br>
 5. ⬆️ Pushed undefined commit(s) to [6SL3PT/spotify-readme-widget](https://github.com/6SL3PT/spotify-readme-widget)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 19th, 2025, 1:39:28 AM
+Last Updated: Monday, October 20th, 2025, 1:37:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 > Tip: powered by [GitHub Readme Activity Workflow](https://github.com/Readme-Workflows/recent-activity)
