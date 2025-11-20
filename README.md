@@ -18,13 +18,10 @@ Hi, I'm Phudit — a passionate developer with a strong interest in software eng
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
-2. ⬆️ Pushed undefined commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
-3. ⬆️ Pushed undefined commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
-4. ⬆️ Pushed undefined commit(s) to [6SL3PT/homelab](https://github.com/6SL3PT/homelab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 19th, 2025, 1:26:37 AM
+Last Updated: Thursday, November 20th, 2025, 1:25:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 > Tip: powered by [GitHub Readme Activity Workflow](https://github.com/Readme-Workflows/recent-activity)
